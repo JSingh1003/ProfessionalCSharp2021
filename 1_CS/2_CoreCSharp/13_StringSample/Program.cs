@@ -69,7 +69,7 @@ void RangesWithStrings()
 {
     string s = "The quick brown fox jumped over the lazy dogs down " +
         "1234567890 times";
-        string the = s[..3];
+    string the = s[..3];
     string quick = s[4..9];
     string times = s[^5..^0];
     Console.WriteLine(the);

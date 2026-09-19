@@ -1,5 +1,22 @@
 ﻿SwitchSample(2);
-SwitchWithPatternMatching(null);
+SwitchWithPatternMatching(new Book("C# in Depth"));
+SwitchCountry("uk");
+
+void SwitchCountry(string country)
+{
+    switch (country)
+    {
+        case "au":
+        case "uk":
+        case "us":
+            Console.WriteLine("English");
+            break;
+        case "at":
+        case "de":
+            Console.WriteLine("German");
+            break;
+    }
+}
 
 void SwitchWithPatternMatching(object? o)
 {
