@@ -6,21 +6,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "ForLoop\ForLoop.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringSample", "StringSample\StringSample.csproj", "{F5D497F6-A89C-4031-A932-71BE811106F3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableScopeSample", "VariableScopeSample\VariableScopeSample.csproj", "{DEC97933-9C6E-4B59-A821-6C7505800BFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableScopeSample", "4_VariableScopeSample\4_VariableScopeSample.csproj", "{DEC97933-9C6E-4B59-A821-6C7505800BFB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesSample", "VariablesSample\VariablesSample.csproj", "{CB78BCCC-31EC-4B67-AA6E-FA65AC136A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesSample", "2_VariablesSample\2_VariablesSample.csproj", "{CB78BCCC-31EC-4B67-AA6E-FA65AC136A90}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableScopeSample2", "VariableScopeSample2\VariableScopeSample2.csproj", "{1DA18881-24AB-4B55-A76C-7A2FCD9C40D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableScopeSample2", "5_VariableScopeSample2\5_VariableScopeSample2.csproj", "{1DA18881-24AB-4B55-A76C-7A2FCD9C40D6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingNumbers", "UsingNumbers\UsingNumbers.csproj", "{E56C3A2A-28B1-487C-838E-27458CE8B48B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "TopLevelStatements\TopLevelStatements.csproj", "{7F3166F6-DD50-46E4-98A7-F1414689C60F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "1_TopLevelStatements\1_TopLevelStatements.csproj", "{7F3166F6-DD50-46E4-98A7-F1414689C60F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandLineArgs", "CommandLineArgs\CommandLineArgs.csproj", "{0E0A54B4-1DD5-4CAE-86FA-115861590822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandLineArgs", "3_CommandLineArgs\3_CommandLineArgs.csproj", "{0E0A54B4-1DD5-4CAE-86FA-115861590822}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableValueTypes", "NullableValueTypes\NullableValueTypes.csproj", "{34F42ADE-1BE0-40FD-A32B-056595169863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableValueTypes", "6_NullableValueTypes\6_NullableValueTypes.csproj", "{34F42ADE-1BE0-40FD-A32B-056595169863}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{FDFDBB78-48B3-4825-B2CC-298EE7129DAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableReferenceTypes", "7_NullableReferenceTypes\7_NullableReferenceTypes.csproj", "{FDFDBB78-48B3-4825-B2CC-298EE7129DAE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchExpression", "SwitchExpression\SwitchExpression.csproj", "{87389D40-254C-4BCB-B465-702B5DF55CDA}"
 EndProject
