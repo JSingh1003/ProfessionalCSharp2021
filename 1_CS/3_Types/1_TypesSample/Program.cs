@@ -18,6 +18,7 @@ var t2 = t1;
 t2.Number = 2;
 t2.String = "b";
 Console.WriteLine($"original didn't change with a tuple: {t1.Number} {t1.String}");
+Console.WriteLine($"t2 changed with a tuple: {t2.Number} {t2.String}");
 
 public struct AStruct
 {

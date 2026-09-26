@@ -15,7 +15,7 @@ void UsingEnumClass()
     string? redtext = Enum.GetName(typeof(Color), red);
     Console.WriteLine(redtext);
 
-    foreach (var day in Enum.GetNames(typeof(Color)))
+    foreach (var day in Enum.GetNames(typeof(DaysOfWeek)))
     {
         Console.WriteLine(day);
     }
